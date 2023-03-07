@@ -64,5 +64,4 @@ public class LineComparisonComputation {
 		obj.equalitycheck();
 		obj.Comparelines();
 	}
-
 }
